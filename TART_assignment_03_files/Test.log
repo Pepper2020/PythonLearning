@@ -1,0 +1,255 @@
+2024-03-14 22:41:34,471 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-14 22:42:13,336 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-14 22:47:03,609 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-14 22:47:36,458 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-14 22:47:36,458 - Test Logger 1.0.0 - INFO - D:\Phython\TART_assignment_03_files\testing_files is a real direcotry.
+2024-03-14 22:47:36,458 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:36,459 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:36,459 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:36,459 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:36,459 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:36,459 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:36,459 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:36,459 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder D:\Phython\TART_assignment_03_files\testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry.
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files
+2024-03-14 22:47:51,746 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files
+2024-03-15 00:00:30,709 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 00:00:30,709 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 00:00:30,709 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 00:00:30,710 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 00:00:30,710 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 00:00:30,710 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 00:00:30,710 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 00:00:30,710 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 00:00:30,710 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 00:00:30,710 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 00:01:27,752 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 00:01:27,752 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 00:01:27,752 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 00:01:27,752 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 00:01:27,752 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 00:01:27,752 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 00:01:27,752 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 00:01:27,753 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 00:01:27,753 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 00:01:27,753 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 00:02:09,182 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 00:02:09,182 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 00:02:09,182 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 00:02:09,182 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 00:02:09,182 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 00:02:09,182 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 00:02:09,182 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 00:02:09,183 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 00:02:09,183 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 00:02:09,183 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 00:03:18,344 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 00:03:18,344 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - None
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 00:03:18,345 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 00:03:18,346 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 00:04:46,010 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 00:04:46,010 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 00:04:46,010 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 00:04:46,010 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 00:04:46,010 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 00:04:46,011 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 00:04:46,011 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 00:04:46,011 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 00:04:46,011 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 00:04:46,011 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 00:04:46,011 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 00:04:46,011 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 00:04:46,012 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 00:04:46,012 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 00:05:01,841 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 00:05:01,841 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 00:05:01,841 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 00:05:01,841 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 00:05:01,841 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 00:05:01,842 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 00:05:01,842 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 00:05:01,842 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 00:05:01,842 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 00:05:01,842 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 00:06:32,562 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 00:06:32,562 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 00:06:32,563 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 00:06:32,564 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 00:06:32,564 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 00:06:32,564 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:07:59,405 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:07:59,406 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:08:43,576 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:08:43,576 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:08:43,577 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:09:26,277 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:09:26,278 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:10:00,380 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:10:00,380 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:10:00,380 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:10:00,380 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:10:00,380 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:10:00,381 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:10:00,381 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:10:00,381 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:10:00,381 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:10:00,381 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:11:03,173 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:11:03,174 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:11:03,174 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:11:27,815 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:11:27,816 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:12:36,809 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:12:36,809 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:12:36,809 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:12:36,809 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:12:36,809 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:12:36,809 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 02:12:36,810 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 02:13:52,922 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:13:52,922 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:13:52,922 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:13:52,922 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:13:52,922 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 02:13:52,923 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 02:18:37,466 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:18:37,466 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:18:37,467 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:18:55,137 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:18:55,137 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:18:55,137 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:18:55,137 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:18:55,137 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:18:55,137 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:18:55,137 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:18:55,138 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:18:55,138 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:18:55,138 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:18:55,138 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 02:18:55,138 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 02:18:55,138 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 02:18:55,138 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 02:19:46,932 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:19:46,932 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:19:46,932 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:19:46,932 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:19:46,932 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 02:19:46,933 - Test Logger 1.0.0 - INFO - Copying and renamed D:\Phython\TART_assignment_03_files\testing_files\sum to D:\Phython\TART_assignment_03_files\new_files\yes.
+2024-03-15 02:20:38,553 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-15 02:20:38,553 - Test Logger 1.0.0 - INFO - testing_files is a real direcotry. Here are all files in this folder: 
+2024-03-15 02:20:38,553 - Test Logger 1.0.0 - INFO - Found file grass_file_01.ma in folder testing_files.
+2024-03-15 02:20:38,553 - Test Logger 1.0.0 - INFO - Found file hello_world.txt in folder testing_files.
+2024-03-15 02:20:38,553 - Test Logger 1.0.0 - INFO - Found file lorem_ipsum.txt in folder testing_files.
+2024-03-15 02:20:38,553 - Test Logger 1.0.0 - INFO - Found file metal_file_01.ma in folder testing_files.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found file rock_file_final_new_02.ma in folder testing_files.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found file texture_grass_color.png in folder testing_files.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found file texture_metal_diffuse.png in folder testing_files.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found file tex_rock_diffuse.png in folder testing_files.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-15 02:20:38,554 - Test Logger 1.0.0 - INFO - Copying and renamed D:\Phython\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\TART_assignment_03_files\new_files\lorem_ipyes.txt.
+2024-03-15 02:20:38,558 - Test Logger 1.0.0 - INFO - Copied and renamed D:\Phython\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\TART_assignment_03_files\new_files\lorem_ipyes.txt.
+2024-03-15 02:20:38,559 - Test Logger 1.0.0 - INFO - Copying and renamed D:\Phython\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\TART_assignment_03_files\new_files\yesture_grass_color.png.
+2024-03-15 02:20:38,562 - Test Logger 1.0.0 - INFO - Copied and renamed D:\Phython\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\TART_assignment_03_files\new_files\yesture_grass_color.png.
+2024-03-15 02:20:38,562 - Test Logger 1.0.0 - INFO - Copying and renamed D:\Phython\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\TART_assignment_03_files\new_files\yesture_metal_diffuse.png.
+2024-03-15 02:20:38,565 - Test Logger 1.0.0 - INFO - Copied and renamed D:\Phython\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\TART_assignment_03_files\new_files\yesture_metal_diffuse.png.
+2024-03-15 02:20:38,565 - Test Logger 1.0.0 - INFO - Copying and renamed D:\Phython\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\TART_assignment_03_files\new_files\yes_rock_diffuse.png.
+2024-03-15 02:20:38,569 - Test Logger 1.0.0 - INFO - Copied and renamed D:\Phython\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\TART_assignment_03_files\new_files\yes_rock_diffuse.png.
