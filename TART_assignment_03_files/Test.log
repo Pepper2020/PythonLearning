@@ -253,3 +253,154 @@
 2024-03-15 02:20:38,565 - Test Logger 1.0.0 - INFO - Copied and renamed D:\Phython\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\TART_assignment_03_files\new_files\yesture_metal_diffuse.png.
 2024-03-15 02:20:38,565 - Test Logger 1.0.0 - INFO - Copying and renamed D:\Phython\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\TART_assignment_03_files\new_files\yes_rock_diffuse.png.
 2024-03-15 02:20:38,569 - Test Logger 1.0.0 - INFO - Copied and renamed D:\Phython\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\TART_assignment_03_files\new_files\yes_rock_diffuse.png.
+2024-03-16 19:09:36,665 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:09:36,665 - Test Logger 1.0.0 - WARNING - No files meet the limit were found.
+2024-03-16 19:09:36,665 - Test Logger 1.0.0 - WARNING - No files meet limit were found. Operation aborted.
+2024-03-16 19:12:09,666 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:12:09,666 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,666 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,666 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,666 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,668 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,668 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,668 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,668 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions.
+2024-03-16 19:12:09,668 - Test Logger 1.0.0 - WARNING - No files meet the limit were found.
+2024-03-16 19:12:09,668 - Test Logger 1.0.0 - WARNING - No files meet limit were found. Operation aborted.
+2024-03-16 19:12:27,379 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:12:27,379 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,379 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,379 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,379 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,379 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,380 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,380 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,380 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: True.
+2024-03-16 19:12:27,380 - Test Logger 1.0.0 - WARNING - No files meet the limit were found.
+2024-03-16 19:12:27,380 - Test Logger 1.0.0 - WARNING - No files meet limit were found. Operation aborted.
+2024-03-16 19:14:09,792 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:14:09,792 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:14:09,792 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:14:09,792 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:14:09,792 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:14:48,047 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:14:48,047 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:14:48,047 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:14:48,047 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:14:48,047 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:28:40,522 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:28:40,522 - Test Logger 1.0.0 - WARNING - No files meet the limit were found.
+2024-03-16 19:31:12,316 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:31:12,316 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:31:12,316 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:31:12,316 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:31:12,316 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:32:53,887 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:32:53,888 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:32:53,888 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:32:53,888 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:32:53,888 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:34:01,371 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:34:01,371 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:34:01,373 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:34:01,373 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:34:01,373 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:34:01,373 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipoh.txt
+2024-03-16 19:34:01,374 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\ohture_grass_color.png
+2024-03-16 19:34:01,374 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\ohture_metal_diffuse.png
+2024-03-16 19:34:01,374 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\oh_rock_diffuse.png
+2024-03-16 19:35:07,048 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:35:07,049 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:35:07,049 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:35:07,049 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:35:07,049 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:35:07,050 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipoh.txt
+2024-03-16 19:35:07,050 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\ohture_grass_color.png
+2024-03-16 19:35:07,051 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\ohture_metal_diffuse.png
+2024-03-16 19:35:07,052 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\oh_rock_diffuse.png
+2024-03-16 19:35:34,123 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:35:34,123 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:35:34,123 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:35:34,123 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:35:34,123 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:35:34,124 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024lorem_ipoh.txt
+2024-03-16 19:35:34,124 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024ohture_grass_color.png
+2024-03-16 19:35:34,125 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024ohture_metal_diffuse.png
+2024-03-16 19:35:34,126 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024oh_rock_diffuse.png
+2024-03-16 19:35:57,315 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:35:57,316 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:35:57,316 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:35:57,316 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:35:57,316 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:35:57,317 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024lorem_ipoh.txt0316
+2024-03-16 19:35:57,318 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024ohture_grass_color.png0316
+2024-03-16 19:35:57,318 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024ohture_metal_diffuse.png0316
+2024-03-16 19:35:57,320 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024oh_rock_diffuse.png0316
+2024-03-16 19:37:54,874 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:37:54,874 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:37:54,874 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:37:54,874 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:37:54,874 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:37:54,875 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024lorem_ipoh0316.txt
+2024-03-16 19:37:54,876 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024ohture_grass_color0316.png
+2024-03-16 19:37:54,877 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024ohture_metal_diffuse0316.png
+2024-03-16 19:37:54,877 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\2024oh_rock_diffuse0316.png
+2024-03-16 19:38:25,433 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:38:25,433 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:38:25,434 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:38:25,434 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:38:25,434 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:38:25,434 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024lorem_ipoh0316.txt
+2024-03-16 19:38:25,435 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_grass_color0316.png
+2024-03-16 19:38:25,436 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_metal_diffuse0316.png
+2024-03-16 19:38:25,436 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024oh_rock_diffuse0316.png
+2024-03-16 19:41:58,529 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:41:58,529 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:41:58,529 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:41:58,529 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:41:58,529 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:43:48,304 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:43:48,304 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:43:48,304 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:43:48,304 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:43:48,304 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:43:48,305 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024lorem_ipoh0316.txt
+2024-03-16 19:43:48,306 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_grass_color0316.png
+2024-03-16 19:43:48,306 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_metal_diffuse0316.png
+2024-03-16 19:43:48,307 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024oh_rock_diffuse0316.png
+2024-03-16 19:44:08,286 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:44:08,286 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:44:08,286 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:44:08,286 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:44:08,286 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:44:08,287 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024lorem_ipoh.txt
+2024-03-16 19:44:08,287 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_grass_color.png
+2024-03-16 19:44:08,288 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_metal_diffuse.png
+2024-03-16 19:44:08,289 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024oh_rock_diffuse.png
+2024-03-16 19:44:21,475 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:44:21,476 - Test Logger 1.0.0 - INFO - Found string sum in lorem_ipsum.txt.
+2024-03-16 19:44:21,476 - Test Logger 1.0.0 - INFO - Found string tex in texture_grass_color.png.
+2024-03-16 19:44:21,476 - Test Logger 1.0.0 - INFO - Found string tex in texture_metal_diffuse.png.
+2024-03-16 19:44:21,476 - Test Logger 1.0.0 - INFO - Found string tex in tex_rock_diffuse.png.
+2024-03-16 19:44:21,477 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024lorem_ipoh.txt
+2024-03-16 19:44:21,477 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_grass_color.png
+2024-03-16 19:44:21,478 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_metal_diffuse.png
+2024-03-16 19:44:21,479 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024oh_rock_diffuse.png
+2024-03-16 19:59:11,287 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:59:11,288 - Test Logger 1.0.0 - INFO - Found string sum in qualified file lorem_ipsum.txt.
+2024-03-16 19:59:11,288 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_grass_color.png.
+2024-03-16 19:59:11,288 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_metal_diffuse.png.
+2024-03-16 19:59:11,288 - Test Logger 1.0.0 - INFO - Found string tex in qualified file tex_rock_diffuse.png.
+2024-03-16 19:59:11,289 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024lorem_ipoh.txt
+2024-03-16 19:59:11,289 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_grass_color.png
+2024-03-16 19:59:11,290 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_metal_diffuse.png
+2024-03-16 19:59:11,290 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024oh_rock_diffuse.png
+2024-03-16 19:59:23,218 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-03-16 19:59:23,218 - Test Logger 1.0.0 - INFO - Found string sum in qualified file lorem_ipsum.txt.
+2024-03-16 19:59:23,218 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_grass_color.png.
+2024-03-16 19:59:23,218 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_metal_diffuse.png.
+2024-03-16 19:59:23,218 - Test Logger 1.0.0 - INFO - Found string tex in qualified file tex_rock_diffuse.png.
+2024-03-16 19:59:23,219 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024lorem_ipoh.txt
+2024-03-16 19:59:23,220 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_grass_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_grass_color.png
+2024-03-16 19:59:23,220 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\texture_metal_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024ohture_metal_diffuse.png
+2024-03-16 19:59:23,221 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_03_files\testing_files\tex_rock_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_03_files\new_files\2024oh_rock_diffuse.png
