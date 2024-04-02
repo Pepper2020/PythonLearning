@@ -114,9 +114,9 @@ class Ui_MainWindow(object):
         self.scrollAreaWidgetContents = QtWidgets.QWidget()
         self.scrollAreaWidgetContents.setGeometry(QtCore.QRect(0, 0, 719, 389))
         self.scrollAreaWidgetContents.setObjectName("scrollAreaWidgetContents")
-        self.textBrowser_log = QtWidgets.QTextBrowser(parent=self.scrollAreaWidgetContents)
-        self.textBrowser_log.setGeometry(QtCore.QRect(0, 0, 721, 391))
-        self.textBrowser_log.setObjectName("textBrowser_log")
+        self.listWidget = QtWidgets.QListWidget(parent=self.scrollAreaWidgetContents)
+        self.listWidget.setGeometry(QtCore.QRect(0, 0, 721, 391))
+        self.listWidget.setObjectName("listWidget")
         self.scrollArea.setWidget(self.scrollAreaWidgetContents)
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(parent=MainWindow)
@@ -149,13 +149,3 @@ class Ui_MainWindow(object):
         self.label_stringstoreplace.setText(_translate("MainWindow", "Strings to Replace"))
         self.label_newfolder.setText(_translate("MainWindow", "New Folder (Optional)"))
         self.lineEdit_newfoldet.setPlaceholderText(_translate("MainWindow", "Defualt folder"))
-
-
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    MainWindow = QtWidgets.QMainWindow()
-    ui = Ui_MainWindow()
-    ui.setupUi(MainWindow)
-    MainWindow.show()
-    sys.exit(app.exec())

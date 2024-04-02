@@ -40,7 +40,7 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         Set lineEdit text for filepath
         """
         self.lineEdit_filepath.setText(self.filepath)
-        #self.update_list()
+        self.update_list()
 
 
     def update_list(self):
@@ -52,6 +52,9 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         self.listWidget.clear()
         for root, dirs, files in os.walk(self.filepath):
             self.listWidget.addItems(files)
+            self.listWidget.addItems(dirs)
+            #self.listWidget.addItems(root)
+        self.listWidget.sortItems()
 
 
     # Add a function to gather and set parameters based upon UI
@@ -75,7 +78,11 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
 
 
 if __name__ == '__main__':
-    app = QApplication(sys.argv)
-    window = BatchRenamerWindow()
-    sys.exit(app.exec())
+    try:
+        app = QApplication(sys.argv)
+        window = BatchRenamerWindow()
+        sys.exit(app.exec())
+    except Exception as e:
+        print(e)
+        sys.exit(1)    
  

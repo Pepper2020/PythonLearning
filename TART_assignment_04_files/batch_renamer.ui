@@ -319,13 +319,13 @@
        <height>389</height>
       </rect>
      </property>
-     <widget class="QTextBrowser" name="textBrowser_log">
+     <widget class="QListWidget" name="listWidget">
       <property name="geometry">
        <rect>
         <x>0</x>
-        <y>-20</y>
-        <width>831</width>
-        <height>411</height>
+        <y>0</y>
+        <width>721</width>
+        <height>391</height>
        </rect>
       </property>
      </widget>
