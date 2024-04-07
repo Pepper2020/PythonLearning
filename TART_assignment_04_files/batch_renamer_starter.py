@@ -1,5 +1,6 @@
 import os
 import logging
+import shutil
 
 
 class BatchRenamer:
@@ -90,7 +91,20 @@ class BatchRenamer:
             copy_mode: copy instead of rename
             force: allows overwriting files
         """
-        pass
+        if not force and os.path.exists(new_name):
+            self.logger.info(f'File at {new_name} already exist, operation aborted.')
+            return
+
+        if existing_name == new_name:
+            self.logger.info(f'Path {existing_name} is the same as {new_name}, operation aborted.')
+            return
+
+        if copy_mode:
+            shutil.copy(existing_name, new_name)
+            self.logger.info(f'Copied file {existing_name} to {new_name}')
+        else:
+            shutil.move(existing_name, new_name)
+            self.logger.info(f'Moved file {existing_name} to {new_name}')
 
 
     def process_folder(self):
@@ -111,12 +125,68 @@ class BatchRenamer:
             prefix: string to add to the beginning of all modified files
             suffix: string to add to the end of all modified files
         """
-
+        if not os.path.isdir(self.filepath):
+            self.logger.error(f'Filepath {self.filepath} does not exist.')
+            return
         source_path = 'A FILEPATH YOU WILL CONSTRUCT'
         target_path = 'A FILEPATH YOU WILL CONSTRUCT'
+        #find files meet limit
+        filenames_to_handle = self.find_files_meet_limit()
+        if type(filenames_to_handle) == type(None) or len(filenames_to_handle) == 0:
+            self.logger.warning(f'No files meet the limit were found, operation aborted.')
+            return
+ 
+        #if new_folder is not offered, files will be put into the original folder
+        if type(self.new_folder) == type(None) or len(self.new_folder) == 0:
+            target_folder_path = os.path.abspath(self.filepath)
 
-        self.modify_file(source_path, target_path, copy_mode=self.copy_files, force=self.overwrite)
+        #if a new_folder is offered, create the folder before create files
+        else:
+            if not os.path.isdir(self.new_folder):
+                os.makedirs(self.new_folder)
+            target_folder_path = os.path.abspath(self.new_folder)
 
+        #only handle files meet limit
+        for filename_to_handle in filenames_to_handle:
+            new_filename = filename_to_handle
+            #string_to_replace is '' by defualt
+            #it doesn't break anything to apply to all target paths
+            #the same thing to prefix and suffix
+            for string_to_find in self.strings_to_find:
+                new_filename = new_filename.replace(string_to_find, self.string_to_replace)
+            new_filename = self.prefix + os.path.splitext(new_filename)[0] + self.suffix + os.path.splitext(new_filename)[1]
+
+            target_path = os.path.join(target_folder_path, new_filename)
+            source_path = os.path.join(os.path.abspath(self.filepath), filename_to_handle)
+            self.modify_file(self, source_path, target_path, self.copy_files, self.overwrite)
+
+    def find_files_meet_limit(self):    
+
+        filenames_to_handle = []
+        type_limit = type(self.filetypes) != type(None) and len(self.filetypes) != 0
+        string_limit = type(self.strings_to_find) != type(None) and len(self.strings_to_find) != 0  
+
+        for filename in os.listdir(self.filepath):  
+
+            #if types are offered, check if they have the correct extensions
+            if type_limit and os.path.splitext(filename)[1] not in self.filetypes:
+                self.logger.info(f'Filtering files with specific extensions: {type_limit}.')
+                #skip those without a correct extension
+                continue    
+
+            if not string_limit:
+                #add all filenames if strings_to_find is not offered
+                filenames_to_handle.append(filename)
+                #skip extra operation
+                continue
+            
+            #if strings_to_find are offered, check if they contain the strings
+            for string_to_find in self.strings_to_find:
+                #add only filenames include required strings
+                if string_to_find in filename:
+                    filenames_to_handle.append(filename)
+                    self.logger.info(f"Found string {string_to_find} in qualified file {filename}.")
+        return filenames_to_handle
 
 if __name__ == '__main__':
     # This part will not be executed when importing
