@@ -104,15 +104,15 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         self.prefix = self.lineEdit_prefix.text()
         if self.prefix is tuple:
             self.prefix = self.prefix[0]
-        self.prefix.strip('_')
-        if self.prefix.__len__() > 0:
+        self.prefix = self.prefix.strip('_')
+        if len(self.prefix) > 0:
             self.prefix = self.prefix + '_'
         
         self.suffix = self.lineEdit_suffix.text()
         if self.suffix is tuple:
             self.suffix = self.suffix[0]
-        self.suffix.strip('_')
-        if self.suffix.__len__() > 0:
+        self.suffix = self.suffix.strip('_')
+        if len(self.suffix) > 0:
             self.suffix = '_' + self.suffix
 
         # Initialize the batch_renamer object with the parameters

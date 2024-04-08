@@ -152,7 +152,9 @@ class BatchRenamer:
             #string_to_replace is '' by defualt
             #it doesn't break anything to apply to all target paths
             #the same thing to prefix and suffix
-            if type(self.string_to_replace) != type(None) and len(self.string_to_replace) != 0:
+            if self.strings_to_find != None:
+                if type(self.string_to_replace) == type(None):
+                    self.string_to_replace = ''
                 for string_to_find in self.strings_to_find:
                     new_filename = new_filename.replace(string_to_find, self.string_to_replace)
             new_filename = self.prefix + os.path.splitext(new_filename)[0] + self.suffix + os.path.splitext(new_filename)[1]
