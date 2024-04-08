@@ -1,42 +1,231 @@
-2024-04-02 16:52:48,310 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 16:55:00,541 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 16:55:26,271 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 17:10:05,999 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 17:18:43,404 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 17:24:19,689 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 17:27:27,392 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 17:27:53,419 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 17:28:43,362 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 23:46:23,182 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-02 23:46:44,085 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-03 00:18:09,519 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-03 00:18:17,858 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-03 00:22:40,116 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-03 00:23:13,597 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 17:35:51,296 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:33:26,418 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:36:10,502 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:37:09,431 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:37:51,778 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:39:06,475 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:39:30,075 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:40:06,226 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:40:46,723 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:49:11,333 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:49:17,684 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:50:09,649 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:50:47,480 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:51:04,357 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:51:27,249 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:53:45,587 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:53:45,587 - Test Logger 1.0.0 - ERROR - Filepath D:\...\testing_files does not exist.
-2024-04-06 23:54:19,540 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:54:42,715 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:55:18,391 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:55:37,832 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:56:00,267 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-06 23:56:17,616 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-07 00:00:35,001 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-07 00:00:35,002 - Test Logger 1.0.0 - ERROR - Filepath D:\...\testing_files does not exist.
-2024-04-07 00:00:38,622 - Test Logger 1.0.0 - INFO - Logger Initiated
-2024-04-07 00:00:48,896 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 20:50:58,537 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 20:51:15,079 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 20:51:15,080 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\hello_world.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\hello_world.txt
+2024-04-07 20:51:15,081 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\iron_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\iron_file_01.ma
+2024-04-07 20:51:15,081 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\lorem_ipsum.txt
+2024-04-07 20:51:15,082 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\stone_file_final_new_02b.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\stone_file_final_new_02b.ma
+2024-04-07 20:51:15,083 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\texture_iron_diffuse.png
+2024-04-07 20:51:15,083 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\texture_tree_color.png
+2024-04-07 20:51:15,083 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\tex_stone_diffuse.png
+2024-04-07 20:51:15,084 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tree_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\tree_file_01.ma
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\hello_world.txt already exist, operation aborted.
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\iron_file_01.ma already exist, operation aborted.
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\lorem_ipsum.txt already exist, operation aborted.
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\stone_file_final_new_02b.ma already exist, operation aborted.
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\texture_iron_diffuse.png already exist, operation aborted.
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\texture_tree_color.png already exist, operation aborted.
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\tex_stone_diffuse.png already exist, operation aborted.
+2024-04-07 20:51:17,771 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\tree_file_01.ma already exist, operation aborted.
+2024-04-07 21:25:02,348 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:26:11,192 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:26:11,192 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_iron_diffuse.png.
+2024-04-07 21:26:11,193 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_tree_color.png.
+2024-04-07 21:26:11,197 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\T_iron_diffuse.png
+2024-04-07 21:26:11,200 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\T_tree_color.png
+2024-04-07 21:26:32,395 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:26:32,396 - Test Logger 1.0.0 - INFO - Found string diffuse in qualified file T_iron_diffuse.png.
+2024-04-07 21:26:32,396 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\T_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\T_iron_C.png
+2024-04-07 21:26:50,640 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:26:50,641 - Test Logger 1.0.0 - INFO - Found string color in qualified file T_tree_color.png.
+2024-04-07 21:26:50,641 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\T_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\T_tree_C.png
+2024-04-07 21:27:02,936 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:27:02,936 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_iron_diffuse.png.
+2024-04-07 21:27:02,936 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_tree_color.png.
+2024-04-07 21:27:02,936 - Test Logger 1.0.0 - INFO - Found string tex in qualified file tex_stone_diffuse.png.
+2024-04-07 21:27:02,937 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\Tture_iron_diffuse.png
+2024-04-07 21:27:02,937 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\Tture_tree_color.png
+2024-04-07 21:27:02,937 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\target\T_stone_diffuse.png
+2024-04-07 21:27:31,259 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:28:23,332 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:28:23,332 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_iron_diffuse.png.
+2024-04-07 21:28:23,332 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_tree_color.png.
+2024-04-07 21:28:23,332 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_iron_diffuse.png
+2024-04-07 21:28:23,333 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_tree_color.png
+2024-04-07 21:29:18,608 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:29:45,374 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:29:45,374 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_iron_diffuse.png.
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_iron_diffuse.png.
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_tree_color.png.
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_tree_color.png.
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - Found string tex in qualified file tex_stone_diffuse.png.
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_iron_diffuse.png
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_iron_diffuse.png already exist, operation aborted.
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_tree_color.png
+2024-04-07 21:29:45,375 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_tree_color.png already exist, operation aborted.
+2024-04-07 21:29:45,376 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_stone_diffuse.png
+2024-04-07 21:29:56,558 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:29:56,558 - Test Logger 1.0.0 - INFO - Found string diffuse in qualified file T_iron_diffuse.png.
+2024-04-07 21:29:56,558 - Test Logger 1.0.0 - INFO - Found string diffuse in qualified file T_stone_diffuse.png.
+2024-04-07 21:29:56,558 - Test Logger 1.0.0 - INFO - Found string color in qualified file T_tree_color.png.
+2024-04-07 21:29:56,558 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_iron_C.png
+2024-04-07 21:29:56,559 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_stone_C.png
+2024-04-07 21:29:56,559 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\T_tree_C.png
+2024-04-07 21:32:57,896 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:33:19,768 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:33:19,769 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:33:19,769 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:33:19,769 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:33:19,769 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:33:19,769 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:33:19,769 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:33:19,772 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\hello_world.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_hello_world_TEMP.txt
+2024-04-07 21:33:19,772 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_lorem_ipsum_TEMP.txt
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_hello_world_TEMP.txt already exist, operation aborted.
+2024-04-07 21:33:24,356 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_lorem_ipsum_TEMP.txt already exist, operation aborted.
+2024-04-07 21:33:24,357 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_hello_world_TEMP.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_NOTE_hello_world_TEMP_TEMP.txt
+2024-04-07 21:33:24,357 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_lorem_ipsum_TEMP.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\NOTE_NOTE_lorem_ipsum_TEMP_TEMP.txt
+2024-04-07 21:35:57,391 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:36:20,506 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:36:20,506 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_iron_diffuse.png.
+2024-04-07 21:36:20,506 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_iron_diffuse.png.
+2024-04-07 21:36:20,506 - Test Logger 1.0.0 - INFO - Found string tex in qualified file texture_tree_color.png.
+2024-04-07 21:36:20,506 - Test Logger 1.0.0 - INFO - Found string texture in qualified file texture_tree_color.png.
+2024-04-07 21:36:20,506 - Test Logger 1.0.0 - INFO - Found string tex in qualified file tex_stone_diffuse.png.
+2024-04-07 21:36:20,507 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_Tture_iron_diffuse_.png
+2024-04-07 21:36:20,507 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_Tture_iron_diffuse_.png already exist, operation aborted.
+2024-04-07 21:36:20,507 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_Tture_tree_color_.png
+2024-04-07 21:36:20,507 - Test Logger 1.0.0 - INFO - File at D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_Tture_tree_color_.png already exist, operation aborted.
+2024-04-07 21:36:20,507 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_T_stone_diffuse_.png
+2024-04-07 21:37:48,352 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:38:16,031 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:38:16,031 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\hello_world.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST_hello_worldOKAY.txt
+2024-04-07 21:38:16,031 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\iron_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST_iron_file_01OKAY.ma
+2024-04-07 21:38:16,031 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST_lorem_ipsumOKAY.txt
+2024-04-07 21:38:16,032 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\stone_file_final_new_02b.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST_stone_file_final_new_02bOKAY.ma
+2024-04-07 21:38:16,032 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tree_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST_tree_file_01OKAY.ma
+2024-04-07 21:38:16,032 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_Tture_iron_diffuse_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST__Tture_iron_diffuse_OKAY.png
+2024-04-07 21:38:16,032 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_Tture_tree_color_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST__Tture_tree_color_OKAY.png
+2024-04-07 21:38:16,033 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_T_stone_diffuse_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\TEST__T_stone_diffuse_OKAY.png
+2024-04-07 21:39:34,567 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:39:57,968 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:39:57,969 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\hello_world.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_hello_worldokay.txt
+2024-04-07 21:39:57,969 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\iron_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_iron_file_01okay.ma
+2024-04-07 21:39:57,969 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_lorem_ipsumokay.txt
+2024-04-07 21:39:57,969 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\stone_file_final_new_02b.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_stone_file_final_new_02bokay.ma
+2024-04-07 21:39:57,970 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_texture_iron_diffuseokay.png
+2024-04-07 21:39:57,970 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_texture_tree_colorokay.png
+2024-04-07 21:39:57,970 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_tex_stone_diffuseokay.png
+2024-04-07 21:39:57,970 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tree_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_tree_file_01okay.ma
+2024-04-07 21:40:10,746 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:40:10,746 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:40:10,746 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:10,746 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:40:10,746 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:10,746 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:40:10,746 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:40:10,747 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:40:10,747 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:10,747 - Test Logger 1.0.0 - WARNING - No files meet the limit were found, operation aborted.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .png.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:23,904 - Test Logger 1.0.0 - WARNING - No files meet the limit were found, operation aborted.
+2024-04-07 21:40:28,262 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:40:28,262 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:40:28,262 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:28,262 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:40:28,262 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:28,262 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:40:28,263 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_texture_iron_diffuseokay.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_texture_iron_diffuseokay.png
+2024-04-07 21:40:28,263 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_texture_tree_colorokay.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_texture_tree_colorokay.png
+2024-04-07 21:40:28,263 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_tex_stone_diffuseokay.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_tex_stone_diffuseokay.png
+2024-04-07 21:40:47,378 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:40:47,379 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_hello_worldokay.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_hello_worldokay.txt
+2024-04-07 21:40:47,379 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_iron_file_01okay.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_iron_file_01okay.ma
+2024-04-07 21:40:47,379 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_lorem_ipsumokay.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_lorem_ipsumokay.txt
+2024-04-07 21:40:47,379 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_stone_file_final_new_02bokay.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_stone_file_final_new_02bokay.ma
+2024-04-07 21:40:47,380 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\test_tree_file_01okay.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_tree_file_01okay.ma
+2024-04-07 21:40:47,380 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_texture_iron_diffuseokay.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yesyestest_texture_iron_diffuseokay.png
+2024-04-07 21:40:47,380 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_texture_tree_colorokay.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yesyestest_texture_tree_colorokay.png
+2024-04-07 21:40:47,380 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yestest_tex_stone_diffuseokay.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yesyestest_tex_stone_diffuseokay.png
+2024-04-07 21:42:03,682 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:42:24,718 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:42:24,719 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\hello_world.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__hello_world_yes.txt
+2024-04-07 21:42:24,719 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\iron_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__iron_file_01_yes.ma
+2024-04-07 21:42:24,719 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__lorem_ipsum_yes.txt
+2024-04-07 21:42:24,720 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\stone_file_final_new_02b.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__stone_file_final_new_02b_yes.ma
+2024-04-07 21:42:24,720 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__texture_iron_diffuse_yes.png
+2024-04-07 21:42:24,721 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__texture_tree_color_yes.png
+2024-04-07 21:42:24,721 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__tex_stone_diffuse_yes.png
+2024-04-07 21:42:24,723 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tree_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__tree_file_01_yes.ma
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:42:47,088 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:42:47,090 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__texture_iron_diffuse_yes.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_okay__texture_iron_diffuse_yes_yes.png
+2024-04-07 21:42:47,091 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__texture_tree_color_yes.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_okay__texture_tree_color_yes_yes.png
+2024-04-07 21:42:47,091 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__tex_stone_diffuse_yes.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_okay__tex_stone_diffuse_yes_yes.png
+2024-04-07 21:42:47,091 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_texture_iron_diffuse_yes.png
+2024-04-07 21:42:47,093 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_texture_tree_color_yes.png
+2024-04-07 21:42:47,093 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_tex_stone_diffuse_yes.png
+2024-04-07 21:43:19,015 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:43:19,016 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:43:19,016 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:43:19,016 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .txt.
+2024-04-07 21:43:19,016 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:43:19,016 - Test Logger 1.0.0 - INFO - Filtering files with specific extensions: .ma.
+2024-04-07 21:43:19,016 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_texture_iron_diffuse_yes.png
+2024-04-07 21:43:19,017 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_texture_tree_color_yes.png
+2024-04-07 21:43:19,017 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_tex_stone_diffuse_yes.png
+2024-04-07 21:44:32,646 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:44:32,646 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\hello_world.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_hello_world_yes.txt
+2024-04-07 21:44:32,646 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\iron_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_iron_file_01_yes.ma
+2024-04-07 21:44:32,646 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_lorem_ipsum_yes.txt
+2024-04-07 21:44:32,647 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\stone_file_final_new_02b.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_stone_file_final_new_02b_yes.ma
+2024-04-07 21:44:32,647 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_texture_iron_diffuse_yes.png
+2024-04-07 21:44:32,647 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_texture_tree_color_yes.png
+2024-04-07 21:44:32,647 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_tex_stone_diffuse_yes.png
+2024-04-07 21:44:32,648 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tree_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay_tree_file_01_yes.ma
+2024-04-07 21:44:32,648 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_texture_iron_diffuse_yes.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__texture_iron_diffuse_yes_yes.png
+2024-04-07 21:44:32,648 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_texture_tree_color_yes.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__texture_tree_color_yes_yes.png
+2024-04-07 21:44:32,648 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\_tex_stone_diffuse_yes.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\okay__tex_stone_diffuse_yes_yes.png
+2024-04-07 21:45:45,981 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:46:06,421 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:46:06,421 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\hello_world.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_hello_world_okay_.txt
+2024-04-07 21:46:06,421 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\iron_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_iron_file_01_okay_.ma
+2024-04-07 21:46:06,422 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\lorem_ipsum.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_lorem_ipsum_okay_.txt
+2024-04-07 21:46:06,422 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\stone_file_final_new_02b.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_stone_file_final_new_02b_okay_.ma
+2024-04-07 21:46:06,422 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_iron_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_texture_iron_diffuse_okay_.png
+2024-04-07 21:46:06,422 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\texture_tree_color.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_texture_tree_color_okay_.png
+2024-04-07 21:46:06,422 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tex_stone_diffuse.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_tex_stone_diffuse_okay_.png
+2024-04-07 21:46:06,423 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\tree_file_01.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_tree_file_01_okay_.ma
+2024-04-07 21:46:14,566 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:46:14,567 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_hello_world_okay_.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_hello_world_okay__okay_.txt
+2024-04-07 21:46:14,567 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_iron_file_01_okay_.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_iron_file_01_okay__okay_.ma
+2024-04-07 21:46:14,567 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_lorem_ipsum_okay_.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_lorem_ipsum_okay__okay_.txt
+2024-04-07 21:46:14,567 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_stone_file_final_new_02b_okay_.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_stone_file_final_new_02b_okay__okay_.ma
+2024-04-07 21:46:14,568 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_texture_iron_diffuse_okay_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_texture_iron_diffuse_okay__okay_.png
+2024-04-07 21:46:14,568 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_texture_tree_color_okay_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_texture_tree_color_okay__okay_.png
+2024-04-07 21:46:14,568 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_tex_stone_diffuse_okay_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_tex_stone_diffuse_okay__okay_.png
+2024-04-07 21:46:14,568 - Test Logger 1.0.0 - INFO - Moved file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes_tree_file_01_okay_.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_tree_file_01_okay__okay_.ma
+2024-04-07 21:47:22,023 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:47:38,996 - Test Logger 1.0.0 - INFO - Logger Initiated
+2024-04-07 21:47:38,997 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_hello_world_okay__okay_.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_hello_world_okay__okay__no_.txt
+2024-04-07 21:47:38,997 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_iron_file_01_okay__okay_.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_iron_file_01_okay__okay__no_.ma
+2024-04-07 21:47:38,998 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_lorem_ipsum_okay__okay_.txt to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_lorem_ipsum_okay__okay__no_.txt
+2024-04-07 21:47:38,998 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_stone_file_final_new_02b_okay__okay_.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_stone_file_final_new_02b_okay__okay__no_.ma
+2024-04-07 21:47:38,999 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_texture_iron_diffuse_okay__okay_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_texture_iron_diffuse_okay__okay__no_.png
+2024-04-07 21:47:38,999 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_texture_tree_color_okay__okay_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_texture_tree_color_okay__okay__no_.png
+2024-04-07 21:47:39,000 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_tex_stone_diffuse_okay__okay_.png to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_tex_stone_diffuse_okay__okay__no_.png
+2024-04-07 21:47:39,000 - Test Logger 1.0.0 - INFO - Copied file D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\yes__yes_tree_file_01_okay__okay_.ma to D:\Phython\Learning\PythonLearning\TART_assignment_04_files\testing_files\why__yes__yes_tree_file_01_okay__okay__no_.ma

@@ -152,13 +152,14 @@ class BatchRenamer:
             #string_to_replace is '' by defualt
             #it doesn't break anything to apply to all target paths
             #the same thing to prefix and suffix
-            for string_to_find in self.strings_to_find:
-                new_filename = new_filename.replace(string_to_find, self.string_to_replace)
+            if type(self.string_to_replace) != type(None) and len(self.string_to_replace) != 0:
+                for string_to_find in self.strings_to_find:
+                    new_filename = new_filename.replace(string_to_find, self.string_to_replace)
             new_filename = self.prefix + os.path.splitext(new_filename)[0] + self.suffix + os.path.splitext(new_filename)[1]
 
             target_path = os.path.join(target_folder_path, new_filename)
             source_path = os.path.join(os.path.abspath(self.filepath), filename_to_handle)
-            self.modify_file(self, source_path, target_path, self.copy_files, self.overwrite)
+            self.modify_file(source_path, target_path, self.copy_files, self.overwrite)
 
     def find_files_meet_limit(self):    
 
@@ -169,8 +170,8 @@ class BatchRenamer:
         for filename in os.listdir(self.filepath):  
 
             #if types are offered, check if they have the correct extensions
-            if type_limit and os.path.splitext(filename)[1] not in self.filetypes:
-                self.logger.info(f'Filtering files with specific extensions: {type_limit}.')
+            if type_limit and os.path.splitext(filename)[1].strip('.') not in self.filetypes:
+                self.logger.info(f'Filtering files with specific extensions: {os.path.splitext(filename)[1]}.')
                 #skip those without a correct extension
                 continue    
 

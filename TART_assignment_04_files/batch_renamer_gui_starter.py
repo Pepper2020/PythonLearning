@@ -16,7 +16,7 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         self.setupUi(self)
         # Connect button to function
         self.pushButton_browse.clicked.connect(self.set_filepath)
-        self.pushButton_browse_new.clicked.connect(self.set_new_folder)
+        self.pushButton_browseNew.clicked.connect(self.set_new_folder)
         self.radioButton_copy.click()
         self.pushButton_run.clicked.connect(self.run_renamer)
         # Connect your new "Run" button to self.run_renamer
@@ -40,12 +40,14 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         Set lineEdit text for filepath
         """
         self.lineEdit_filepath.setText(self.filepath)
+        if self.filepath is tuple:
+            self.filepath = self.filepath[0]
         self.update_list()
 
 
     def set_new_folder(self):
         self.new_folder = QFileDialog().getExistingDirectory()
-        self.lineEdit_newfoldet.setText(self.new_folder)
+        self.lineEdit_newFolder.setText(self.new_folder)
 
 
     def update_list(self):
@@ -77,31 +79,60 @@ class BatchRenamerWindow(QMainWindow, Ui_MainWindow):
         if self.lineEdit_filetypes.text() == '':
             self.filetypes = None
         else:
-            self.filetypes = self.lineEdit_filetypes.text().split(',')
-
-        if self.lineEdit_stringstofind.text() == '':
+            self.filetypes = self.lineEdit_filetypes.text()
+            if self.filetypes is tuple:
+                self.filetypes = self.filetypes[0]
+            self.filetypes = self.filetypes.split(',')
+            self.filetypes = [filetype.strip('.') for filetype in self.filetypes]
+        
+        if self.lineEdit_stringstoFind.text() == '':
             self.strings_to_find = None
         else:
-            self.strings_to_find = self.lineEdit_stringstofind.text().split(',')
-
+            self.strings_to_find = self.lineEdit_stringstoFind.text()
+            if self.strings_to_find is tuple:
+                self.strings_to_find = self.strings_to_find[0]
+            self.strings_to_find = self.strings_to_find.split(',')
         
+        self.new_folder = self.lineEdit_newFolder.text()
+        if self.new_folder is tuple:
+            self.new_folder = self.new_folder[0]
+        
+        self.string_to_replace = self.lineEdit_stringstoReplace.text()
+        if self.string_to_replace is tuple:
+            self.string_to_replace = self.string_to_replace[0]
+
+        self.prefix = self.lineEdit_prefix.text()
+        if self.prefix is tuple:
+            self.prefix = self.prefix[0]
+        self.prefix.strip('_')
+        if self.prefix.__len__() > 0:
+            self.prefix = self.prefix + '_'
+        
+        self.suffix = self.lineEdit_suffix.text()
+        if self.suffix is tuple:
+            self.suffix = self.suffix[0]
+        self.suffix.strip('_')
+        if self.suffix.__len__() > 0:
+            self.suffix = '_' + self.suffix
+
+        # Initialize the batch_renamer object with the parameters
 
         self.batch_renamer.__init__(
             filepath = self.filepath,
-            new_folder = self.lineEdit_newfoldet.text(),
+            new_folder = self.new_folder,
             copy_files = self.radioButton_copy.isChecked(),
             overwrite = self.checkBox_forceOverwrite.isChecked(),
             filetypes = self.filetypes,
             strings_to_find = self.strings_to_find,
-            string_to_replace = self.lineEdit_stringstoreplace.text(),
-            prefix = self.lineEdit_prefix.text(),
-            suffix = self.lineEdit_suffix.text())
+            string_to_replace = self.string_to_replace,
+            prefix = self.prefix,
+            suffix = self.suffix)
         
         # unction call to Gather Parameters
         self.batch_renamer.process_folder()
         # If new_folder is used, change filepath to new_folder
         # Update List Widget
-        self.set_filepath()
+        self.update_list()
 
 
 if __name__ == '__main__':
